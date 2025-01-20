@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetJ3_1 Pin=J3-1
+Removed Pin From Net: NetName=NetD1_1 Pin=J3-2
+Change Component Designator: OldDesignator= NewDesignator=J2
+Added Pin To Net: NetName=NetBR1_7 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-2
+Change Net Name : Old Net Name=NetBR1_7 New Net Name=return
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=Ip-
+Added Member To Class: ClassName=Sheet1 Member=Component C2 B43547A9107M000

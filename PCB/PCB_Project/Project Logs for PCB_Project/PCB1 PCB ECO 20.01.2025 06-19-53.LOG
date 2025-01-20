@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetBR1_16 Pin=J2-1
+Removed Pin From Net: NetName=NetBR1_12 Pin=J2-2
+Removed Pin From Net: NetName=NetBR1_9 Pin=J2-3
+Change Component Footprint: Designator=J2 Old Footprint=2828343 New Footprint=2MA02
+Change Component Comment : Designator=J2 Old Comment=282834-3 New Comment=2MA-02
+Change component parameters: Designator = "J2" ("J2"); Footprint = "2828343"; UniqueID = "\LQZPMFZC" ("\LQZPMFZC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://octopart.com/datasheet/2ma-02-te+connectivity-39650644"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "15.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2MA-02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-15460742"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2MA-02?qs=tYnqtB6%252BMT5HYbRtwiMoEw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(2MA02)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://octopart.com/datasheet/2ma-02-te+connectivity-39650644"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2MA-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-15460742"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2MA-02?qs=tYnqtB6%252BMT5HYbRtwiMoEw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBR1_12 Pin=J2-1
+Added Pin To Net: NetName=NetBR1_9 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=NetBR1_16 Pin=J5-2
+Added Member To Class: ClassName=Sheet1 Member=Component J5 2MA-02

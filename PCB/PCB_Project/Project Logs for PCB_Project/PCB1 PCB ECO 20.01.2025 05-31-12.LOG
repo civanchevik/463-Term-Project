@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetBR?_1 Pin=C2-3
+Removed Pin From Net: NetName=NetC2_2 Pin=C2-4
+Removed Pin From Net: NetName=NetBR?_1 Pin=C3-3
+Removed Pin From Net: NetName=NetC2_2 Pin=C3-4
+Change Component Footprint: Designator=C2 Old Footprint=EZPV60107MTS New Footprint=CAPPRD1000W190D2550H2700
+Change Component Footprint: Designator=C3 Old Footprint=EZPV60107MTS New Footprint=CAPPRD1000W190D2550H2700
+Change Component Comment : Designator=C2 Old Comment=EZP-V60107MTS New Comment=B43547A9107M000
+Change Component Comment : Designator=C3 Old Comment=EZP-V60107MTS New Comment=B43547A9107M000
+Change Component Designator: OldDesignator=BR? NewDesignator=BR1
+Change component parameters: Designator = "C2" ("C2"); Footprint = "EZPV60107MTS"; UniqueID = "\XPRRYDOL" ("\XPRRYDOL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/cd912998c374446e8a207df35f28d060.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "27mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B43547A9107M000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "871-B43547A9107M000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B43547A9107M000?qs=OiaALIbqWFRvXNUybej1lA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "EZPV60107MTS"; UniqueID = "\CPJVBJKO" ("\CPJVBJKO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/cd912998c374446e8a207df35f28d060.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "27mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B43547A9107M000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "871-B43547A9107M000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B43547A9107M000?qs=OiaALIbqWFRvXNUybej1lA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C4AEGBW6100A3NJ)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NISSEI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C4AEGBW6100A3NJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=C7-1
+Added Pin To Net: NetName=NetBR?_1 Pin=C7-2
+Added Pin To Net: NetName=NetBR?_1 Pin=C7-3
+Added Pin To Net: NetName=NetC2_2 Pin=C7-4
+Change Net Name : Old Net Name=NetBR?_1 New Net Name=NetBR1_1
+Change Net Name : Old Net Name=NetBR?_9 New Net Name=NetBR1_9
+Change Net Name : Old Net Name=NetBR?_12 New Net Name=NetBR1_12
+Change Net Name : Old Net Name=NetBR?_16 New Net Name=NetBR1_16
+Added Member To Class: ClassName=Sheet1 Member=Component C7 C4AEGBW6100A3NJ

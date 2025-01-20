@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetBR1_2 Pin=J2-2
+Removed Pin From Net: NetName=NetBR1_3 Pin=J2-3
+Removed Pin From Net: NetName=NetBR1_1 Pin=J3-1
+Removed Pin From Net: NetName=NetJ3_2 Pin=J3-2
+Change Component Footprint: Designator=J3 Old Footprint=1006974 New Footprint=2MA02
+Change Component Footprint: Designator=J2 Old Footprint=1061356 New Footprint=2828343
+Change Component Comment : Designator=J3 Old Comment=1006974 New Comment=2MA-02
+Change Component Comment : Designator=J2 Old Comment=1061356 New Comment=282834-3
+Change component parameters: Designator = "J2" ("J2"); Footprint = "1061356"; UniqueID = "\JGODROPL" ("\JGODROPL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "282834-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/282834-3/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773458-1_EURO_STYLE_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=282834-3&DocFormat=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "282834-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-2828343"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/282834-3?qs=A%252Bip%252BNCYi6M69kAjqV38yA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "1006974"; UniqueID = "\YFONWZLT" ("\YFONWZLT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://octopart.com/datasheet/2ma-02-te+connectivity-39650644"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "15.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2MA-02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-15460742"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2MA-02?qs=tYnqtB6%252BMT5HYbRtwiMoEw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBR1_3 Pin=J2-2
+Added Pin To Net: NetName=NetBR1_2 Pin=J2-3
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-1
+Added Pin To Net: NetName=NetBR1_1 Pin=J3-2
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ3_1
+Added Pin To Net: NetName=RA4 Pin=IC1-13
+Added Pin To Net: NetName=RA4 Pin=IC3-3
+Added Net: Name=RA4
